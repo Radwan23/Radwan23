@@ -35,13 +35,3 @@ You can also find us on the following social media platforms:
 
 Happy coding! 🚀
 
-
-💻 Tools:
-![visual_studio_code](image link)
-![Postman](image link)
-![Docker](image link)
-![Jira](image link)
-![Trello](image link)
-![Gitlab](image link)
-![windows](image link)
-![Google_tools](image link)
