@@ -1,5 +1,5 @@
-##### Hi there 👋, I’m Radwan ALshahoud
-###Software enginner and backend developer
+### Hi there 👋 I’m Radwan ALshahoud
+I am a software engineer and backend developer. I am excited to share my work with you.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
